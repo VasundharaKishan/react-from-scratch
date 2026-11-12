@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-fi",
+    "about": "A thief who steals secrets from dreams takes one last job."
+  },
+  {
+    "id": 2,
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": "Animation",
+    "about": "A girl wanders into a world of spirits and must find a way home."
+  },
+  {
+    "id": 3,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Sci-fi",
+    "about": "A hacker learns the world he knows is a simulation."
+  },
+  {
+    "id": 4,
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "about": "A poor family talks its way into a rich household."
+  },
+  {
+    "id": 5,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-fi",
+    "about": "Explorers leave a dying Earth to find a new home."
+  },
+  {
+    "id": 6,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "about": "Batman faces a criminal who wants chaos."
+  }
+]

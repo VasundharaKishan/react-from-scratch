@@ -1,0 +1,18 @@
+.card {
+  background: #f3e8ff;
+  padding: 24px;
+  border-radius: 16px;
+}
+
+.btn {
+  padding: 8px 20px;
+  border: 2px solid #7c3aed;
+  border-radius: 999px;
+  background: white;
+  color: #7c3aed;
+}
+
+.btn.active {
+  background: #7c3aed;
+  color: white;
+}
